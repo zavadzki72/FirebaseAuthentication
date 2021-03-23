@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1024/1*zTdZMxbTkVdXCOoZlXLnsg.png" alt="Firebase Authentication"> 
+<img height="300" width="1000" src="https://miro.medium.com/max/1024/1*zTdZMxbTkVdXCOoZlXLnsg.png" alt="Firebase Authentication"> 
 
 
 O que é o Firebase Auth?
