@@ -5,15 +5,9 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{28AC7847-B98A-440F-93F9-54A9C70F59BE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - ApplicationService", "2 - ApplicationService", "{3FFDE28E-81A3-4D40-835A-244CB6F3B89A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UiSite", "src\UiSite\UiSite.csproj", "{D847729D-1875-4E93-AD99-429534D581CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "src\WebApi\WebApi.csproj", "{A3B1FB28-1662-4545-88C8-8AE156F92DDA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationService", "src\ApplicationService\ApplicationService.csproj", "{62D6EDD0-7A93-4460-B243-3076011D9DA1}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{FC8B52A9-A9B2-4A03-BE74-1DEDC313B9BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "src\WebApi\WebApi.csproj", "{A3B1FB28-1662-4545-88C8-8AE156F92DDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +23,6 @@ Global
 		{A3B1FB28-1662-4545-88C8-8AE156F92DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3B1FB28-1662-4545-88C8-8AE156F92DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B1FB28-1662-4545-88C8-8AE156F92DDA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62D6EDD0-7A93-4460-B243-3076011D9DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62D6EDD0-7A93-4460-B243-3076011D9DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62D6EDD0-7A93-4460-B243-3076011D9DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62D6EDD0-7A93-4460-B243-3076011D9DA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,7 +30,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D847729D-1875-4E93-AD99-429534D581CD} = {28AC7847-B98A-440F-93F9-54A9C70F59BE}
 		{A3B1FB28-1662-4545-88C8-8AE156F92DDA} = {28AC7847-B98A-440F-93F9-54A9C70F59BE}
-		{62D6EDD0-7A93-4460-B243-3076011D9DA1} = {3FFDE28E-81A3-4D40-835A-244CB6F3B89A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {43CF9FEC-618D-4E24-99DB-DEF156A01888}
