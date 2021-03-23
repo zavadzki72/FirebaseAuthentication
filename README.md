@@ -5,7 +5,7 @@ O que é o Firebase Auth?
 =====================
 O firebase authentication nada mais é do que um projeto template para se autenticar usando o firebase. No projeto existe um Site, e, nele está presente o Login Social google, também existe uma API que está configurada para a autenticação do firebase.
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48a7f3749ddd4c6c9d5010e3f49ac4b4)](https://www.codacy.com/gh/zavadzki72/MZLeilao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zavadzki72/MZLeilao&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/058f16859513412cb7e2e6139d90817e)](https://www.codacy.com/gh/zavadzki72/FirebaseAuthentication/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zavadzki72/FirebaseAuthentication&amp;utm_campaign=Badge_Grade)
 
 ## Me da uma estrela! :star:
 Se você curtiu essa DEMO, da um star aí!
